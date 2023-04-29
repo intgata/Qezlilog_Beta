@@ -1,0 +1,8 @@
+{
+  "label": "アトミックノード",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "アトミックノードはそれ以上分割できないノードであり、最も基本的な構成要素です。"
+  }
+}
